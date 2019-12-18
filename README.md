@@ -4,3 +4,5 @@
 
 
 ![alt text](image.png "Model image")
+
+[ ] Replicate [why-winners-keep-winning](https://ofdollarsanddata.com/why-winners-keep-winning/) findings on the algo
